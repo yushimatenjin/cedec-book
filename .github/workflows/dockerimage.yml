@@ -1,0 +1,14 @@
+name: Docker Image CI
+
+on: [push]
+
+jobs:
+
+  build:
+ 
+    runs-on: kauplan/review2.5
+ 
+    steps:
+      - run: yarn install
+      - run: yarn pdf
+
