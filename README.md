@@ -19,7 +19,7 @@ PlayCanvas日本公式サイト
 
 ### 2. 名前・ユーザー名を入力
 
-![](.gitbook/assets/createac.png)
+![](.gitbook/assets/createac%20%281%29.png)
 
 1. フルネームを入力
 2. ユーザー名を入力
@@ -27,5 +27,5 @@ PlayCanvas日本公式サイト
 
 ### 3.デモプロジェクトが開かれます
 
-![](.gitbook/assets/demostart.png)
+![](.gitbook/assets/demostart%20%281%29.png)
 

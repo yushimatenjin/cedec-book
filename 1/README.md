@@ -31,9 +31,9 @@
 
 ### 3.シーンの選択
 
-![](../.gitbook/assets/tu-1.png) シーンの選択画面が出てきますので、`handson` というシーンを選択してください。
+![](../.gitbook/assets/tu-1%20%281%29.png) シーンの選択画面が出てきますので、`handson` というシーンを選択してください。
 
-![](../.gitbook/assets/launch-jie-guo.png)
+![](../.gitbook/assets/launch-jie-guo%20%281%29.png)
 
 `handson`のシーンが選択できたらコインドーザーのモデルがすでに入っているシーンが表示されたかと思います。  
 今回はこのようなモデル最初から含んだ状態のプロジェクトをコインドーザーを実際にコインドーザーとして動くものに作り変えていきます。
@@ -53,11 +53,11 @@
 
 ### 2. COLLISIONを追加
 
-![](../.gitbook/assets/component3.png)
+![](../.gitbook/assets/component3%20%281%29.png)
 
 ### 3. COLLISIONの設定をする
 
-![](../.gitbook/assets/component4.png)
+![](../.gitbook/assets/component4%20%281%29.png)
 
 COLLISIONの値をそれぞれ以下の値に設定をします。
 
@@ -69,7 +69,7 @@ COLLISIONの値をそれぞれ以下の値に設定をします。
 
 ### 4. RIGID BODYを追加する
 
-![](../.gitbook/assets/component5.png)
+![](../.gitbook/assets/component5%20%281%29.png)
 
 ADD COMPONENTからRIGID BODYを追加します。
 
