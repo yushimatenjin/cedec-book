@@ -1,8 +1,8 @@
-# まずはじめに
+# Introduction
 
 ## アカウントの登録
 
-![](.gitbook/assets/a.png)
+![](.gitbook/assets/a%20%281%29.png)
 
 エディタを使用するのには無料アカウントの登録が必要ですので、公式サイトにアクセスし無料アカウント作成をします。
 
@@ -11,7 +11,7 @@ PlayCanvas日本公式サイト
 
 ### 1. メールアドレス・パスワードを入力
 
-![](.gitbook/assets/signup.png)
+![](.gitbook/assets/signup%20%281%29.png)
 
 1. サインアップを選択
 2. メールアドレスとパスワードを入力
